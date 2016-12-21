@@ -1,4 +1,4 @@
 def operations(a,b):
-	print (a*b)
+	print (f'{a} {b}')
 	
 operations(1,2)
